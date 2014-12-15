@@ -72,7 +72,7 @@ namespace CameraConfigTool
 
         /// <summary>
         /// Receive respones packet
-        /// </summary
+        /// </summary>
         private void ReceiveCam()
         {
             if (udpC != null)
